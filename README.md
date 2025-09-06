@@ -2,7 +2,7 @@
 
 ![Tools](https://img.shields.io/badge/Tools-Arduino%20%7C%20Embedded%20Systems%20%7C%20MATLAB-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/smart-air-quality-monitoring-system)
+![Last Commit](https://img.shields.io/github/last-commit/mdlaisurrahmankhanturjo/smart-air-quality-monitoring-system)
 
 ![Air Quality Sensor](images/project.jpg)
 
